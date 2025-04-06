@@ -1,6 +1,6 @@
 # LanzouAPI-JavaEdition
 
-蓝奏云带密码直链解析（Java实现）
+蓝奏云直链解析（Java实现）
 
 Todo：
 
